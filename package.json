@@ -1,6 +1,6 @@
 {
   "name": "myaddmodule",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This module adds two numbers",
   "main": "index.js",
   "scripts": {
